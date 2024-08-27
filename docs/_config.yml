@@ -1,0 +1,9 @@
+title: My Blog -- hello
+description: Welcome to my blog -- hello!
+baseurl: "/docs"
+url: "https://rajeshmauryasde.github.io"
+theme: minima
+
+# Other optional configurations
+markdown: kramdown
+paginate: 5
