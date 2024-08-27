@@ -1,6 +1,6 @@
 title: My Blog -- hello
 description: Welcome to my blog -- hello!
-baseurl: "/docs"
+baseurl: "/"
 url: "https://rajeshmauryasde.github.io"
 theme: minima
 
